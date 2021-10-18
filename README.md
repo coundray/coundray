@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @coundray
 - 👀 I’m interested in Java and Flutter
 - 🌱 I’m currently learning Kotlin
+- 🤓 I'm self taught 
 
 
 <!---
